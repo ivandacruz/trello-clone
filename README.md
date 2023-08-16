@@ -9,7 +9,7 @@ First, run the development server:
 ```bash
 npm run dev
 # or
-yarn dev
+yarn run dev
 # or
 pnpm dev
 ```
@@ -31,7 +31,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 #
 
-## create new project
+## Create new project
 
 ```bash
 
@@ -39,10 +39,59 @@ npx create-next-app@latest
 
 ```
 
+## Getting started
+
+First, run the development server:
+
+```bash
+
+npm run dev
+
+```
+
+## Install HeroIcons
+
+[Images HeroIcons](https://heroicons.com/)
+
+[Documentations](https://github.com/tailwindlabs/heroicons)
+
+```bash
+
+npm install @heroicons/react
+
+```
 
 
+## Install React Avatar
 
+[React Avatar](https://www.npmjs.com/package/react-avatar)
 
+Some examples:
+
+```example
+<Avatar googleId="118096717852922241760" size="100" round={true} />
+<Avatar facebookId="100008343750912" size="150" />
+<Avatar githubHandle="sitebase" size={150} round="20px" />
+<Avatar vkontakteId="1" size="150" />
+<Avatar skypeId="sitebase" size="200" />
+<Avatar twitterHandle="sitebase" size="40" />
+<Avatar name="Wim Mostmans" size="150" />
+<Avatar name="Wim Mostmans" size="150" textSizeRatio={1.75} />
+<Avatar value="86%" size="40" />
+<Avatar size="100" facebook-id="invalidfacebookusername" src="http://www.gravatar.com/avatar/a16a38cdfe8b2cbd38e8a56ab93238d3" />
+<Avatar name="Wim Mostmans" unstyled={true} />
+
+```
+
+install
+
+```bash
+
+npm install react-avatar --save
+
+```
+
+#
 
 ## Deploy on Vercel
 
