@@ -1,6 +1,6 @@
 "use client";
 
-import { MagnifyingGlassIcon } from '@heroicons/react/24/solid';
+import { MagnifyingGlassIcon, UserCircleIcon } from '@heroicons/react/24/solid';
 import Image from 'next/image';
 import React from 'react';
 import Avatar from 'react-avatar';
@@ -31,6 +31,12 @@ export default function Header() {
                     {/* Avatar */}
                     <Avatar name="ivan cruz" size='50' round color='gold' />
                 </div>
+            </div>
+            <div className="flex items-center justify-center px-5 py-2 md:py-5">
+                <p className='flex items-center text-sm font-light pr-5 shadow-xl rounded-xl w-fit bg-white itelic max-w-3xl text-[#0055d4]'>
+                    <UserCircleIcon className='inline-block h-10 w-10 text-[#0055d4] mr-1' />
+                    GPT is summarising your tasks for the day...
+                </p>
             </div>
         </header>
     );

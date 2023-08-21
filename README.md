@@ -51,8 +51,6 @@ npm run dev
 
 ## Install HeroIcons
 
-[Images HeroIcons](https://heroicons.com/)
-
 [Documentations](https://github.com/tailwindlabs/heroicons)
 
 ```bash
@@ -61,14 +59,25 @@ npm install @heroicons/react
 
 ```
 
+[Images HeroIcons](https://heroicons.com/)
+
+#
 
 ## Install React Avatar
 
 [React Avatar](https://www.npmjs.com/package/react-avatar)
 
+Install
+
+```bash
+
+npm install react-avatar --save
+
+```
+
 Some examples:
 
-```example
+```examples
 <Avatar googleId="118096717852922241760" size="100" round={true} />
 <Avatar facebookId="100008343750912" size="150" />
 <Avatar githubHandle="sitebase" size={150} round="20px" />
@@ -83,13 +92,6 @@ Some examples:
 
 ```
 
-install
-
-```bash
-
-npm install react-avatar --save
-
-```
 
 #
 
@@ -100,3 +102,13 @@ npm install react-avatar --save
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
+
+
+paramos em
+
+2:07:00 hs
+
+[Sonny Sangha](https://www.youtube.com/watch?v=7DVdVGm7Ht8)
