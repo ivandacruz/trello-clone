@@ -1,5 +1,19 @@
 # Trello-clone
 
+
+
+About:
+        
+        What is Trello? 
+            Trello is the visual tool that enables the 
+            team to manage any type of project, workflow 
+            or task tracking. 
+            
+            Add files, checklists or even automation: 
+            customize everything to make the team work better.
+
+#
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -39,6 +53,8 @@ npx create-next-app@latest
 
 ```
 
+#
+
 ## Getting started
 
 First, run the development server:
@@ -48,6 +64,8 @@ First, run the development server:
 npm run dev
 
 ```
+
+#
 
 ## Install HeroIcons
 
@@ -91,6 +109,31 @@ Some examples:
 <Avatar name="Wim Mostmans" unstyled={true} />
 
 ```
+#
+
+## Install React-Beautiful-dnd
+
+[React-Beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
+
+```bash
+
+npm install react-beautiful-dnd --save
+
+```
+
+<br>
+
+OBS:
+
+        when installing, there was an error in the import and
+        when hovering over the import, another installation of
+        types was indicated.
+
+```bash: 
+
+npm i --save-dev @types/react-beautiful-dnd
+
+```
 
 
 #
@@ -103,12 +146,3 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-
-
-
-
-paramos em
-
-2:07:00 hs
-
-[Sonny Sangha](https://www.youtube.com/watch?v=7DVdVGm7Ht8)
