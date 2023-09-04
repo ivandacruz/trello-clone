@@ -91,6 +91,34 @@ Some examples:
 <Avatar name="Wim Mostmans" unstyled={true} />
 
 ```
+#
+
+## React Beautiful DnD
+
+[React Beautiful dnd](https://github.com/atlassian/react-beautiful-dnd)
+
+Install
+
+```bash
+
+# yarn
+yarn add react-beautiful-dnd
+
+# npm
+npm install react-beautiful-dnd --save
+ 
+```
+right after installing, import in Boards.tsx doc
+
+```bash
+import { DragDropContext } from 'react-beautiful-dnd'
+                                 ____________________
+                # place the cursor over 'react-beautiful-dnd', 
+                # and you will be asked to install below:
+
+npm i --save-dev @types/react-beautiful-dnd
+
+```
 
 
 #
