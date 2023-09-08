@@ -137,6 +137,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 paramos em
 
-2:07:00 hs
+2:16:00 hs
 
 [Sonny Sangha](https://www.youtube.com/watch?v=7DVdVGm7Ht8)
