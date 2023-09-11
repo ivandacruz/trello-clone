@@ -25,7 +25,8 @@ export default function Header() {
                         opacity-50
                         -z-50
                     "
-                ></div>
+                />
+
                 <Image
                     src="https://links.papareact.com/c2cdd5"
                     alt='Trello Logo'

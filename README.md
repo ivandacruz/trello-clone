@@ -1,5 +1,19 @@
 # Trello-clone
 
+
+
+About:
+        
+        What is Trello? 
+            Trello is the visual tool that enables the 
+            team to manage any type of project, workflow 
+            or task tracking. 
+            
+            Add files, checklists or even automation: 
+            customize everything to make the team work better.
+
+#
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -39,6 +53,8 @@ npx create-next-app@latest
 
 ```
 
+#
+
 ## Getting started
 
 First, run the development server:
@@ -48,6 +64,8 @@ First, run the development server:
 npm run dev
 
 ```
+
+#
 
 ## Install HeroIcons
 
@@ -77,7 +95,8 @@ npm install react-avatar --save
 
 Some examples:
 
-```examples
+```bash
+
 <Avatar googleId="118096717852922241760" size="100" round={true} />
 <Avatar facebookId="100008343750912" size="150" />
 <Avatar githubHandle="sitebase" size={150} round="20px" />
@@ -89,34 +108,6 @@ Some examples:
 <Avatar value="86%" size="40" />
 <Avatar size="100" facebook-id="invalidfacebookusername" src="http://www.gravatar.com/avatar/a16a38cdfe8b2cbd38e8a56ab93238d3" />
 <Avatar name="Wim Mostmans" unstyled={true} />
-
-```
-#
-
-## React Beautiful DnD
-
-[React Beautiful dnd](https://github.com/atlassian/react-beautiful-dnd)
-
-Install
-
-```bash
-
-# yarn
-yarn add react-beautiful-dnd
-
-# npm
-npm install react-beautiful-dnd --save
- 
-```
-right after installing, import in Boards.tsx doc
-
-```bash
-import { DragDropContext } from 'react-beautiful-dnd'
-                                 ____________________
-                # place the cursor over 'react-beautiful-dnd', 
-                # and you will be asked to install below:
-
-npm i --save-dev @types/react-beautiful-dnd
 
 ```
 
@@ -133,10 +124,12 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 
 
+<!-- import { Client } from 'appwrite'; -->
 
 
+<!-- 
 paramos em
 
-2:16:00 hs
+2:27:00 hs es´ta sendo cronstruido a integração com api appwritre
 
-[Sonny Sangha](https://www.youtube.com/watch?v=7DVdVGm7Ht8)
+[Sonny Sangha](https://www.youtube.com/watch?v=7DVdVGm7Ht8) -->
