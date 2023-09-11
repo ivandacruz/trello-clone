@@ -110,6 +110,26 @@ Some examples:
 <Avatar name="Wim Mostmans" unstyled={true} />
 
 ```
+#
+
+## Install Zustand 
+
+[Zustand](https://github.com/pmndrs/zustand)
+
+```bash
+
+npm install zustand # or yarn add zustand or pnpm add zustand
+
+```
+
+About
+🐻 Bear necessities for state management in React;
+
+A brief description of what zustand is:
+
+A small, fast and scalable bearbones state-management solution using simplified flux principles. Has a comfy API based on hooks, isn't boilerplatey or opinionated.
+
+Don't disregard it because it's cute. It has quite the claws, lots of time was spent dealing with common pitfalls, like the dreaded zombie child problem, react concurrency, and context loss between mixed renderers. It may be the **_one state-manager in the React_** space that gets all of these right.
 
 
 #
